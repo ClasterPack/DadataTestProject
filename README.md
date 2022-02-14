@@ -10,6 +10,8 @@
 Настройка окружения:
 1. Настроить репозиторий
     ```shell script
+    gh repo clone ClasterPack/DadataTestProject 
+    cd DadataTestProject
    ```
 2. Подключение виртуального окружения
     ```shell script
