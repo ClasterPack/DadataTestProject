@@ -22,14 +22,15 @@
    pip install -r requirements.txt   
     ```
 ## Запуск
-1. Внесите ваш APIkey и Secretkey от Dadata API в settings.py
-2. Для сохранения данных в базу данных settings.sqlite:
-    ```shell script
-    python settings.py
-    ```
-3. Запуск в консоле
-   ```shell script
-   python console_dadata.py
-   ```
-4. Чтобы выйти из программы введите
-   >exit
+   1. При первом запуске внесите необходимые параметры:
+      1. API key
+      2. secretkey
+      3. язык API
+      4. При необходимости можно записать свой url
+      
+   2. Запуск в консоле
+      ```shell script
+      python main.py
+      ```
+   3. Чтобы выйти из программы введите
+      >exit
