@@ -10,7 +10,7 @@
 Настройка окружения:
 1. Настроить репозиторий
     ```shell script
-    git repo clone ClasterPack/DadataTestProject 
+    git clone ClasterPack/DadataTestProject 
     cd DadataTestProject
    ```
 2. Подключение виртуального окружения
